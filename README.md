@@ -10,7 +10,7 @@ The purpose of this project is to create visualizations of rideshare data for Py
 The data was divided into three categories based on geographic region. A total of 66 cities qualified as "Urban," another 36 cities qualified as "Suburban," and the remaining 18 cities were considered "Rural" in this analysis. There were a total of 2,375 rides in the ride_data.csv data set.
 ### Resources
 - Software Python 3.7.13, Matplotlib 3.5.2, Jupyter Notebook 6.4.12
-- Data: city_data.csv, ride_data.csv
+- Data: [city_data.csv](https://github.com/banasibb/PyBer_Challenge/blob/5d32d5b7639859f38554408e4ce69212f63ee2e8/Resources/city_data.csv), [ride_data.csv](https://github.com/banasibb/PyBer_Challenge/blob/5d32d5b7639859f38554408e4ce69212f63ee2e8/Resources/ride_data.csv)<br />
 ## Results
 ### Total Rides by City Type
 Across all regions, the total number of rides was 2,375, with the total rides for Urban cities as 1625, total rides for Suburban cities equal to 625 and total rides for Rural cities as 125. The breakdown as a percentage of total PyBer rides is in the pie chart below:<br />
