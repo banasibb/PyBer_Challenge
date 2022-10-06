@@ -27,6 +27,7 @@ Across all regions, the total dollar amount for fares was $63,538.64. The total 
    ![Chart 3](https://github.com/banasibb/PyBer_Challenge/blob/cd42bdcb23750da7497d19c461ccc46a7e6118d6/Analysis/Pie%20Total%20Fares%20by%20City%20Type.png)<br />
 
 ### Average Fare per Driver by Geographic Region
+What follows is a visual representation of the average fare per number of rides based on the geographic region. Note that the circle size correlates to the driver count per city. This table will be referenced in the Summary section.
 ![Chart 6](https://github.com/banasibb/PyBer_Challenge/blob/7328bd752ce2a0ed202e223a0a5447b27fd347b7/Analysis/bubble%20ride%20sharing%20data%20averages%20reformatted.png)<br />
 
 
@@ -71,6 +72,6 @@ plt.show()
 
 
 ## Summary
-Based on the analysis, the recommendations to leadership as as follows:
-- More drivers are needed in rural areas. With only 537 drivers out of the total 15,067 drivers in the PyBer market, rural drivers make up only 3.56% of the driver population. However, rural drivers make up 6.81% of all PyBer sales, accounting for $4,327 out of the total $63,538 made in 2019 across all geographic regions. This is an underserved market.
-- The suburban driver market is saturated. PyBer should incentivize those drivers who operate out of cities categorized as suburban to instead consider accepting rides in the rural regions, as this may be more logistically plausible assuming drivers operate out of the market the live in. To help make this case, leadership could educate drivers on the average fare per rural driver, which is $8.06. This is approximately 2.5 times higher than the average fare per driver in the suburban region of $2.26.
+- Based on the analysis, more drivers are needed in rural areas. With only 537 drivers out of the total 15,067 drivers in the PyBer market, rural drivers make up 3.56% of the driver population. However, rural drivers make up 6.81% of all PyBer sales, accounting for $4,327 out of the total $63,538 made in 2019 across all geographic regions. This is an underserved market in terms of drivers.
+- The suburban driver market is saturated. PyBer should incentivize those drivers who operate out of cities categorized as suburban to instead consider accepting rides in the rural regions, as this may be more logistically plausible assuming drivers operate out of the market the live in. To help make this case, leadership could educate drivers on the average fare per rural driver, which is $8.06. This is approximately 2.5 times higher than the average fare per driver in the suburban region of $2.26. 
+- Urban drivers take, on average, more rides with lower fares. This is evident in the PyBer Ride-Sharing Data (2019) bubble chart referenced in the Results section above. It is also evident in the summary table above, where in the last row of the last column, Average Fare per Driver for Urban areas, where the summary dollar amount of $0.67 can be found. This is only 8% of the average fare per driver in the rural geographic region, and 29.6% of the average fare per driver in the suburban market. This finding may also help incentivize some portion of the urban drivers to consider operating out of the rural or even suburban markets, where the number of rides given may be lower, but the fare per ride and per driver are significantly higher.
