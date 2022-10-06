@@ -68,3 +68,6 @@ plt.show()
 
 
 ## Summary
+Based on the analysis, the recommendations to leadership as as follows:
+1. More drivers are needed in rural areas.
+2. 
