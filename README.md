@@ -72,5 +72,5 @@ plt.show()
 
 ## Summary
 Based on the analysis, the recommendations to leadership as as follows:
-- More drivers are needed in rural areas.
-
+- More drivers are needed in rural areas. With only 537 drivers out of the total 15,067 drivers in the PyBer market, rural drivers make up only 3.56% of the driver population. However, rural drivers make up 6.81% of all PyBer sales, accounting for $4,327 out of the total $63,538 made in 2019 across all geographic regions. This is an underserved market.
+- The suburban driver market is saturated. PyBer should incentivize those drivers who operate out of cities categorized as suburban to instead consider accepting rides in the rural regions, as this may be more logistically plausible assuming drivers operate out of the market the live in. To help make this case, leadership could educate drivers on the average fare per rural driver, which is $8.06. This is approximately 2.5 times higher than the average fare per driver in the suburban region of $2.26.
