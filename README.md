@@ -13,13 +13,16 @@ The data was divided into three categories based on geographic region. A total o
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ### Total Rides by City Type
 Across all regions, the total number of rides was 2,375, with the total rides for Urban cities as 1625, total rides for Suburban cities equal to 625 and total rides for Rural cities as 125. The breakdown as a percentage of total PyBer rides is in the pie chart below:<br />
+
 ![Chart 4](https://github.com/banasibb/PyBer_Challenge/blob/14d2de6b8cb327daaf58c95ffa0faef100c95097/Analysis/Pie%20total%20rides%20by%20city%20type.png)<br />
 
 ### Total Drivers by City Type
 The total number of drivers across all three regions included in the client's data sets were 68,709. The total drivers for Urban cities as 59,602, total drivers for Suburban cities is 8570, and total drivers for Rural cities as just 537.The percentage breakdown is pictured below:<br />
+
 ![Chart 5](https://github.com/banasibb/PyBer_Challenge/blob/14d2de6b8cb327daaf58c95ffa0faef100c95097/Analysis/Pie%20Total%20Drivers%20by%20City%20Type.png)<br />
 ### Total Fares by City Type
 Across all regions, the total dollar amount for fares was $63,538.64. The total fares for Urban cities is $39,854.38, total fares for Suburban cities is $19,356.33 and the total fares for Rural areas is $4,327.93. Please see the pie chart for the visual representation of each dollar amount a percentage of the total fare sales.<br />
+
 ![Chart 3](https://github.com/banasibb/PyBer_Challenge/blob/14d2de6b8cb327daaf58c95ffa0faef100c95097/Analysis/Pie%20Total%20Fares%20by%20City%20Type.png)<br />
 
 
