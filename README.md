@@ -1,6 +1,12 @@
 # PyBer_Challenge
 ## Overview of the analysis: Explain the purpose of the new analysis.
-The purpose of thie project is to create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
+The purpose of thie project is to create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. Specifically, the client was interested in the following metrics:
+- The total rides for each city type
+- The total drivers for each city type
+- The total amount of fares for each city type
+- The average fare per ride for each city type
+- The average fare per driver for each city type
+
 ### Resources
 - Software Python 3.7.13, Matplotlib 3.5.2
 - Data: city_data.csv, ride_data.csv
