@@ -24,7 +24,7 @@ The total number of drivers across all three regions included in the client's da
 ### Total Fares by City Type
 Across all regions, the total dollar amount for fares was $63,538.64. The total fares for Urban cities is $39,854.38, total fares for Suburban cities is $19,356.33 and the total fares for Rural areas is $4,327.93. Please see the pie chart for the visual representation of each dollar amount a percentage of the total fare sales.<br />
 
-   ![Chart 3](https://github.com/banasibb/PyBer_Challenge/blob/14d2de6b8cb327daaf58c95ffa0faef100c95097/Analysis/Pie%20Total%20Fares%20by%20City%20Type.png)<br />
+   ![Chart 3](https://github.com/banasibb/PyBer_Challenge/blob/febe96483c8f8c1a618bf72de7c863b980ec1fc8/Analysis/Pie%20Total%20Drivers%20by%20City%20Type.png)<br />
 
 
 ### PyBer Summary DataFrame
