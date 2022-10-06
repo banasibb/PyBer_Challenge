@@ -1,5 +1,5 @@
 # PyBer_Challenge
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview
 The purpose of this project is to create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. Specifically, the client was interested in the following metrics:
 - The total rides for each city type
 - The total drivers for each city type
@@ -11,7 +11,7 @@ The data was divided into three categories based on geographic region. A total o
 ### Resources
 - Software Python 3.7.13, Matplotlib 3.5.2
 - Data: city_data.csv, ride_data.csv
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results
 ### Total Rides by City Type
 Across all regions, the total number of rides was 2,375, with the total rides for Urban cities as 1625, total rides for Suburban cities equal to 625 and total rides for Rural cities as 125. The breakdown as a percentage of total PyBer rides is in the pie chart below:<br />
 
@@ -67,4 +67,4 @@ plt.show()
 ![Chart 2](https://github.com/banasibb/PyBer_Challenge/blob/b92c1f54bb98a4eb85f556feca867702e6d5be68/Analysis/pyber_fare_summary.png)<br />
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
