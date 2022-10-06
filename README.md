@@ -27,7 +27,7 @@ Across all regions, the total dollar amount for fares was $63,538.64. The total 
    ![Chart 3](https://github.com/banasibb/PyBer_Challenge/blob/cd42bdcb23750da7497d19c461ccc46a7e6118d6/Analysis/Pie%20Total%20Fares%20by%20City%20Type.png)<br />
 
 ### Average Fare per Driver by Geographic Region
-![Chart 6](https://github.com/banasibb/PyBer_Challenge/blob/7f667360d359c6ac68447e11eb0defe4d10b88e9/Analysis/bubble%20ride%20sharing%20data%20averages.png)<br />
+![Chart 6](https://github.com/banasibb/PyBer_Challenge/blob/7328bd752ce2a0ed202e223a0a5447b27fd347b7/Analysis/bubble%20ride%20sharing%20data%20averages%20reformatted.png)<br />
 
 
 ### PyBer Summary DataFrame
