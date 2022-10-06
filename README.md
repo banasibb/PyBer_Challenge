@@ -11,7 +11,21 @@ The purpose of thie project is to create visualizations of rideshare data for Py
 - Software Python 3.7.13, Matplotlib 3.5.2
 - Data: city_data.csv, ride_data.csv
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+### Total Rides by City Type
+- The total rides for Urban cities is 1625.
+- The total rides for Suburban cities is 625.
+- The total rides for Rural cities is 125.
+### Total Drivers by City Type
+- The total drivers for Urban cities is 59602.
+- The total drivers for Suburban cities is 8570.
+- The total drivers for Rural cities is 537.
+### Total Fares by City Type
+- The total fares for Urban cities is $39,854.38.
+- The total fares for Suburban cities is $19,356.33.
+- The total fares for Rural cities is $4,327.93.
+### PyBer Summary DataFrame
 ![Chart 1](https://github.com/banasibb/PyBer_Challenge/blob/b92c1f54bb98a4eb85f556feca867702e6d5be68/Analysis/pyber_summary_df.png)<br />
+### Total Fare by City Type
 The final line chart was created using the object-oriented interface method, plot the resample DataFrame using the df.plot() function. The excerpt of code is as follows:
  ```
 ax = january_to_april_month_df.plot(figsize=(15, 6))
