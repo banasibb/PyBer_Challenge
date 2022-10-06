@@ -6,7 +6,7 @@ The purpose of thie project is to create visualizations of rideshare data for Py
 - The total amount of fares for each city type
 - The average fare per ride for each city type
 - The average fare per driver for each city type
-
+The data was divided into three categories based on geographic region. A total of 66 cities qualified as "Urban," another 36 cities qualified as "Suburban," and the remaining 18 cities were considered "Rural" in this analysis. There were a total of 2,375 rides in the ride_data.csv data set
 ### Resources
 - Software Python 3.7.13, Matplotlib 3.5.2
 - Data: city_data.csv, ride_data.csv
@@ -20,9 +20,8 @@ The purpose of thie project is to create visualizations of rideshare data for Py
 - The total drivers for Suburban cities is 8570.
 - The total drivers for Rural cities is 537.
 ### Total Fares by City Type
-- The total fares for Urban cities is $39,854.38.
-- The total fares for Suburban cities is $19,356.33.
-- The total fares for Rural cities is $4,327.93.
+Across all regions, the total dollar amount for fares was $63,538.64. The total fares for Urban cities is $39,854.38, total fares for Suburban cities is $19,356.33 and the total fares for Rural areas is $4,327.93. Please see the pie chart for the visual representation of each dollar amount a percentage of the total fare sales.
+
 ### PyBer Summary DataFrame
 The data in the bullets aboved were summarized into a single dataframe for the client. The excerpted code is below:
  ```
