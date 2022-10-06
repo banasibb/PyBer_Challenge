@@ -9,7 +9,7 @@ The purpose of this project is to create visualizations of rideshare data for Py
 
 The data was divided into three categories based on geographic region. A total of 66 cities qualified as "Urban," another 36 cities qualified as "Suburban," and the remaining 18 cities were considered "Rural" in this analysis. There were a total of 2,375 rides in the ride_data.csv data set
 ### Resources
-- Software Python 3.7.13, Matplotlib 3.5.2
+- Software Python 3.7.13, Matplotlib 3.5.2, Jupyter Notebook 6.4.12
 - Data: city_data.csv, ride_data.csv
 ## Results
 ### Total Rides by City Type
