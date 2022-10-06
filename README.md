@@ -24,6 +24,24 @@ The purpose of thie project is to create visualizations of rideshare data for Py
 - The total fares for Suburban cities is $19,356.33.
 - The total fares for Rural cities is $4,327.93.
 ### PyBer Summary DataFrame
+The data in the bullets aboved were summarized into a single dataframe for the client. The excerpted code is below:
+ ```
+    city_type = pyber_data_df.set_index([""type""])
+rides_by_type = pyber_data_df.groupby([""type""]).count()[""ride_id""]
+drivers_by_type = pyber_data_df.groupby([""type""]).sum()[""driver_count""]
+sum_fares_by_type = pyber_data_df.groupby([""type""]).sum()[""fare""]
+average_fares_ride = sum_fares_by_type / rides_by_type
+averages_fares_driver = sum_fares_by_type / drivers_by_type
+
+pyber_summary_df = pd.DataFrame({
+    ""Total Rides"": rides_by_type,
+    ""Total Drivers"": drivers_by_type,
+    ""Total Fares"": sum_fares_by_type, 
+    ""Average Fare per Ride"": average_fares_ride,
+    ""Average Fare per Driver"": averages_fares_driver
+})
+pyber_summary_df
+  ```
 ![Chart 1](https://github.com/banasibb/PyBer_Challenge/blob/b92c1f54bb98a4eb85f556feca867702e6d5be68/Analysis/pyber_summary_df.png)<br />
 ### Total Fare by City Type
 The final line chart was created using the object-oriented interface method, plot the resample DataFrame using the df.plot() function. The excerpt of code is as follows:
